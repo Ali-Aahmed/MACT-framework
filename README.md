@@ -42,7 +42,9 @@ The following applications were analyzed during the evaluation process:
 9. **Messenger App Android** 💬📡  
    - [Repository](https://github.com/mesibo/messenger-app-android)  
    - Description: A real-time messaging app built using Mesibo SDK.
-
+10. **Profile Track App** 💬📡    
+   - Description: An app for tracking and analyzing user profiles.
+   - this App contains three activities in Folder Samples
 ## Evaluation Process
 The framework was tested by:
 - Extracting UI screens from the source code of each application.
