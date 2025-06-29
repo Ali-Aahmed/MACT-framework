@@ -7,5 +7,4 @@ To ensure a reliable and reproducible evaluation of the **MACT (Mobile Applicati
 - **Espresso Testing Framework** – for writing and executing automated UI test cases on Android apps.
 - **UIAutomator** – used in some advanced interaction scenarios where cross-app UI access was required.
 
-- 
 **We conducted case studies for all the applications included in Samples.**
